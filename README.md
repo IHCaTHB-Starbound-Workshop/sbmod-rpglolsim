@@ -1,4 +1,4 @@
-# sbmod-rpgeasysim
+# sbmod-rpglolsim
 
 Code licensed under GPLv3, file included
 
